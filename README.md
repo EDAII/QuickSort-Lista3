@@ -71,3 +71,5 @@ clock_t tempo;
 '''
 
 Assim, os valores foram destinados a um vetor, o Quick Sort, principal tema dessa entrega . Nesse sentido, obteve-se o gráfico esperado através dos dados que foram coletados, conforme apresentado abaixo.
+
+Link do repositório original - https://github.com/LucasLermen/SortingAlgorithmLogn
